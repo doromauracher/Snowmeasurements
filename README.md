@@ -15,7 +15,8 @@ The designed probe should detect different types of snow by being stuck in it. T
 
 ## Definitions (09.01.2023)
 Force Measurement
-* Induction <br>
+* Induction
+
 Orientation: 
 * IMU for orientation and depth measurement
 * Temperature sensors: all have the same temperature in the air, when stuck into snow the temperature changes -> calculate the depth +/- 5 cm
