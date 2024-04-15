@@ -13,7 +13,7 @@ Authors: Ostler Andreas, Neuner Matthias, Mauracher Dorothea <br>
 ## Tasks
 The designed probe should detect different types of snow by being stuck in it. The aim is to measure data over the height of the snow and form a snow profile.
 
-## Definitions (09.01.2023)
+## General Definitions(15.04.2024)
 Force Measurement:
 * Induction
 
