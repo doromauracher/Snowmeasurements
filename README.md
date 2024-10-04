@@ -28,3 +28,13 @@ Combine at least 2 measurements for depth calculation
 ## Hardware
 
 ## Implementation
+
+## Meeting Notes 04.10.24
+
+Nächste Schritte: Härtemessung und Temperaturmessung
+
+Härtemessung: Sonde mit Wägezelle verifizieren mit Handführung, Kalibrierung mit bekanntem Material, Tests mit unterschiedlichen Spitzengeometrien
+
+Temperaturmessung: 2 ntcs, Opamp schaltung, auslesen ADC @Matthias 
+
+Weekly meeting: Mittwoch 1900 https://teams.live.com/meet/9336498614844?p=Fi7JKa9My4pAAuXOab
