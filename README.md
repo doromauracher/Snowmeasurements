@@ -1,4 +1,4 @@
-# Schnee
+# Schneesonde
 Authors: Ostler Andreas, Neuner Matthias, Mauracher Dorothea <br>
 ### Deadlines:
 * 13.01.2022 git hub repository
